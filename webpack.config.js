@@ -96,7 +96,7 @@ module.exports = {
             },
           },
         ],
-        include: path.resolve('src/img'),
+        include: path.resolve('assets'),
         exclude:/(node_modules)/,
       }
     ]
